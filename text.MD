@@ -1,21 +1,24 @@
-
+int hoho(	)
+{
+	int i;
+	fir
+}
 
 we
 ew
 whhwwewe
-ewE
-ww   ewewhhwww
-ew
+	ewE
+	ww   ewewhhwww
+	ew
+	whhwww
+	d(wewewdwewqeqweqw )jedje
+	ew
+	whhww
+
+
+
 whhwww
-djedje
-ew
-whhww
 
-
-
-wwewewhhwww
-ew
-whhwww
-sewE
 wwewewhhwww
 w
+i
