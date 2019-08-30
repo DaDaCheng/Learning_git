@@ -2,6 +2,7 @@ int hoho(	)
 {
 	int i;
 	fir
+	idsdsdsds
 }
 
 we
