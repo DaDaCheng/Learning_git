@@ -1,7 +1,6 @@
 
 
 we
-wweaaahhwww
 ew
 whhwwewe
 ewE
